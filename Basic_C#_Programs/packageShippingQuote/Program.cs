@@ -26,7 +26,10 @@ namespace packageShippingQuote
             //Declares variable
             int a = packageWeight;
             int b = 50;
+            if {
             Console.WriteLine(a > b);
+            Console.WriteLine(“Package too heavy to be shipped via Package Express. Have a good day.”);
+            }
             //Asks for package width
             Console.WriteLine("What is your package width?");
             Console.ReadLine();
