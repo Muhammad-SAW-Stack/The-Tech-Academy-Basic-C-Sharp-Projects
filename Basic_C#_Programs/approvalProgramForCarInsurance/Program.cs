@@ -31,7 +31,8 @@ namespace approvalProgramForCarInsurance
             int a = yourAge
             bool b = anyDUI
             int c = anyTickets  
-            Console.WriteLine(a > 15 && b = false && c <= 3 ); 
+            Console.WriteLine("Are you qualified?");
+            Console.WriteLine(a > 15 && b == false && c <= 3 ); 
           }
     }
 }
