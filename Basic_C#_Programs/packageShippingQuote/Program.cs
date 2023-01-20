@@ -41,7 +41,7 @@ namespace packageShippingQuote
             //Defines string
             //Convert string to int
             int packageWidth2 = Convert.ToInt32(Console.ReadLine());
-            //Asks for package hieght
+            //Asks for package height
             Console.WriteLine("What is your package height?");
             Console.ReadLine();
             //Defines string 
