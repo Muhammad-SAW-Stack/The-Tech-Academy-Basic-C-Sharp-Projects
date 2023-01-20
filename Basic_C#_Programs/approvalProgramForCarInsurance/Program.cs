@@ -29,7 +29,7 @@ namespace approvalProgramForCarInsurance
             Console.ReadLine();
             //Declares variables
             int a = yourAge
-            int b = anyDUI
+            bool b = anyDUI
             int c = anyTickets  
             Console.WriteLine(a > 15 && b < 1 && c <= 3 ); 
           }
