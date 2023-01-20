@@ -63,6 +63,7 @@ namespace packageShippingQuote
             Console.WriteLine("Your package weight is: " + x * y * z);
             //Shows the quote, which is package dimensions multiplied by package weight divided by 100
             Console.WriteLine("Your quote is: " + packageDimensions * a / 100);
+            Console.WriteLine("Your quote is: $" + packageDimensions * a / 100) + ".00";
         }
     }
 }
