@@ -11,35 +11,52 @@ namespace packageShippingQuote
         static void Main(string[] args)
         {
 
-            //Writes "Person 1"
+            //Writes "Welcome to Package Express. Please follow the instructions below"
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below");
             //Keeps the window from closing
             Console.ReadLine();
 
-            //Writes "14$/hr"
+            //Writes "What is your package weight?"
             Console.WriteLine("What is your package weight?");
+            Defines string
             string packageWeight = Console.ReadLine();
+            //Convert the string packageWeight to int
+            Convert.ToInt32(packageWeight);
             //Displays your package weight
             Console.WriteLine("Your package weight is: " + packageWeight);
             //Keeps the window from closing
             Console.ReadLine();
             //Declares variable
+            //Defines int variables
             int a = packageWeight;
             int b = 50;
             if {
             Console.WriteLine(a > b);
+            
             Console.WriteLine(“Package too heavy to be shipped via Package Express. Have a good day.”);
             }
             //Asks for package width
             Console.WriteLine("What is your package width?");
             Console.ReadLine();
+            //Defines string
+            string packageWeight = Console.ReadLine();
+            Convert.ToInt32(packageWeight);
             //Asks for package hieght
             Console.WriteLine("What is your package height?");
             Console.ReadLine();
+            //Defines string
+            string packageHeight = Console.ReadLine(); 
+            //Converts string to int
+            Convert.ToInt32(packageHeight);
             //Asks for package length
             Console.WriteLine("What is your package length?");
+            //Defines string
+            string packageLengtht = Console.ReadLine(); 
+            //Converts string to int
+            Convert.ToInt32(packageLength);            
             Console.ReadLine();
             string packageDimensions = Console.ReadLine();
+            Convert.ToInt32(packageDimensions);
             int x = packageWidth;
             int y = PackageHeight;
             int z = packageLength;
