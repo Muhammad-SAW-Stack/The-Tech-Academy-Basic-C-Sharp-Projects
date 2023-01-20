@@ -35,6 +35,9 @@ namespace whileStatementDoWhile
             do
             {
                 // code block to be executed
+                //increment operator increases number every time the enter button is pressed until the number going from 4 to 5
+                i++;
+                //Ends while statement
             }
             //Condition is to be entered in parentheses
             while (i > 6 );
