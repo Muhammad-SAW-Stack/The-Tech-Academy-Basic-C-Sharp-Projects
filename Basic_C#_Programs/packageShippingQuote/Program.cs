@@ -39,27 +39,25 @@ namespace packageShippingQuote
             Console.WriteLine("What is your package width?");
             Console.ReadLine();
             //Defines string
-            string packageWeight = Console.ReadLine();
-            Convert.ToInt32(packageWeight);
+            //Convert string to int
+            int packageWidth2 = Convert.ToInt32(Console.ReadLine());
             //Asks for package hieght
             Console.WriteLine("What is your package height?");
             Console.ReadLine();
-            //Defines string
-            string packageHeight = Console.ReadLine(); 
-            //Converts string to int
-            Convert.ToInt32(packageHeight);
+            //Defines string 
+            // //Converts string to int
+            int packageHeight2 = Convert.ToInt32(Console.ReadLine());
             //Asks for package length
             Console.WriteLine("What is your package length?");
-            //Defines string
-            string packageLengtht = Console.ReadLine(); 
+            //Defines string 
             //Converts string to int
-            Convert.ToInt32(packageLength);            
+            int packageLength2 = Convert.ToInt32(Console.ReadLine());
             Console.ReadLine();
             string packageDimensions = Console.ReadLine();
             Convert.ToInt32(packageDimensions);
-            int x = packageWidth;
-            int y = PackageHeight;
-            int z = packageLength;
+            int x = packageWidth2;
+            int y = PackageHeight2;
+            int z = packageLength2;
             Console.WriteLine(x * y * z);
             //Shows width multiplied by height multiplied by length
             Console.WriteLine("Your package weight is: " + x * y * z);
