@@ -21,7 +21,7 @@ namespace packageShippingQuote
             Defines string
             string packageWeight = Console.ReadLine();
             //Convert the string packageWeight to int
-            Convert.ToInt32(packageWeight);
+            int packageWeight = Convert.ToInt32(Console.ReadLine());
             //Displays your package weight
             Console.WriteLine("Your package weight is: " + packageWeight);
             //Keeps the window from closing
