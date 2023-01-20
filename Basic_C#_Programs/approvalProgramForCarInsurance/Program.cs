@@ -21,7 +21,7 @@ namespace approvalProgramForCarInsurance
             //Writes "Have you ever had a DUI?"
             Console.WriteLine("Have you ever had a DUI?");
             //Convert to int, declares variable
-            int anyDUI = Convert.ToInt32(Console.ReadLine());          
+            bool anyDUI = Convert.ToBool32(Console.ReadLine());          
             //Writes "How many speeding tickets do you have?"            
             Console.WriteLine("How many speeding tickets do you have?");
             //Convert to int, declares variable
