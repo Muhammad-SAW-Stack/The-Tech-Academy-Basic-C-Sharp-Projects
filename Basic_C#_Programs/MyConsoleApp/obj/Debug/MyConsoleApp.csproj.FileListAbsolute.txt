@@ -1,0 +1,7 @@
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
