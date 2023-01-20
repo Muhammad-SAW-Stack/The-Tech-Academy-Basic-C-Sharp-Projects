@@ -23,7 +23,7 @@ namespace whileStatementDoWhile
                 Console.WriteLine(i);
                 Console.ReadLine();
 
-                //increment operator increases number everytime the enter button is hit until it's going from 4 to 5
+                //increment operator increases number every time the enter button is pressed until the number going from 4 to 5
                 i++;
                 //Ends while statement
             }
