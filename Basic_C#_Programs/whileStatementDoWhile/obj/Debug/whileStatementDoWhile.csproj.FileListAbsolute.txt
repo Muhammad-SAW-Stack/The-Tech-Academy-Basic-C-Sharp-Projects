@@ -1,0 +1,7 @@
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\whileStatementDoWhile\obj\Debug\whileStatementDoWhile.csproj.AssemblyReference.cache
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\whileStatementDoWhile\obj\Debug\whileStatementDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\whileStatementDoWhile\bin\Debug\whileStatementDoWhile.exe.config
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\whileStatementDoWhile\bin\Debug\whileStatementDoWhile.exe
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\whileStatementDoWhile\bin\Debug\whileStatementDoWhile.pdb
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\whileStatementDoWhile\obj\Debug\whileStatementDoWhile.exe
+C:\Users\aolst\OneDrive\Desktop\Basic_C#_Programs\whileStatementDoWhile\obj\Debug\whileStatementDoWhile.pdb
