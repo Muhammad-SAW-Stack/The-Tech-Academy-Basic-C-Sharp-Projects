@@ -36,7 +36,7 @@ namespace dailyReport
             //Keeps window open
             Console.ReadLine();
             //Defines string, converts it
-            bool pageNuber = Convert.ToBool32(Console.ReadLine());
+            int pageNuber = Convert.ToInt32(Console.ReadLine());
             //Writes "WDo you need help with anything?"
             Console.WriteLine("Do you need help with anything?");
             //Defines string, converts it
