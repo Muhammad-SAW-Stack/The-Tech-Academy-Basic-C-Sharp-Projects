@@ -22,7 +22,7 @@ namespace dailyReport
             //Writes "What is your name?"
             Console.WriteLine("What is your name?");
             //Defines string, convert to int
-            bool yourName = Convert.ToBool32(Console.ReadLine());
+            string yourName = Convert.ToString32(Console.ReadLine());
 
             //Keeps window open
             Console.ReadLine();
@@ -30,7 +30,7 @@ namespace dailyReport
             Console.WriteLine("What course are you on?");
             Console.ReadLine();
             //Defines string, converts it
-            bool youCourse = Convert.ToBool32(Console.ReadLine());
+            string youCourse = Convert.ToString32(Console.ReadLine());
             //Writes "What page number?"
             Console.WriteLine("What page number?");
             //Keeps window open
@@ -44,19 +44,16 @@ namespace dailyReport
             Console.ReadLine();
             //Writes "Please answer “true” or “false”."
             Console.WriteLine("Please answer “true” or “false”.");
-            //Defines string, converts it
-            //Defines string, converts it
-            bool trueOrFalse = Convert.ToBool32(Console.ReadLine());
             Console.ReadLine();
             // Writes "Were there any positive experiences you’d like to share? Please give specifics."
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             //Defines string, converts it
-            bool goodTimes = Convert.ToBool32(Console.ReadLine());
+            string goodTimes = Convert.ToString32(Console.ReadLine());
             //Defines string, converts itConsole.ReadLine();
             // Writes "Is there any other feedback you’d like to provide? Please be specific."
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
             //Defines string, converts it
-            bool anyFeedback = Convert.ToBool32(Console.ReadLine());
+            string anyFeedback = Convert.ToString32(Console.ReadLine());
             Console.ReadLine();
             //Writes "How many hours did you study today ?"
             Console.WriteLine("How many hours did you study today ?");
