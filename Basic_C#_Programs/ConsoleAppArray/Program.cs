@@ -8,7 +8,7 @@ namespace ConsoleAppArray
         public void Main()
         {
             //Crates array of strings named car.
-            string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
+            string[] cars = { "Toyota", "Porsche", "Ford", "Maserati" };
             //Prints "Select an index of the array"
             Console.WriteLine("Select an index of the array");
             //Keeps window open.
@@ -33,11 +33,6 @@ namespace ConsoleAppArray
             Console.WriteLine("Select an index of the array");
             //Keeps window open.
             Console.WriteLine(nations[0]);
-
-
-
-          
-           
         }
     }
 }
