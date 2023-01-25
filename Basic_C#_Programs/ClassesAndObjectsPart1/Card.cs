@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesAndObjectsPart1
 {
-     class Card
+     public class Card
     {
         public Card()
         {
