@@ -1,0 +1,7 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ClassesAndObjectsPart1\obj\Debug\ClassesAndObjectsPart1.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ClassesAndObjectsPart1\obj\Debug\ClassesAndObjectsPart1.csproj.CoreCompileInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ClassesAndObjectsPart1\bin\Debug\ClassesAndObjectsPart1.exe.config
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ClassesAndObjectsPart1\bin\Debug\ClassesAndObjectsPart1.exe
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ClassesAndObjectsPart1\bin\Debug\ClassesAndObjectsPart1.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ClassesAndObjectsPart1\obj\Debug\ClassesAndObjectsPart1.exe
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ClassesAndObjectsPart1\obj\Debug\ClassesAndObjectsPart1.pdb
