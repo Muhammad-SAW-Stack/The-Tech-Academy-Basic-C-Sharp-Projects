@@ -21,7 +21,7 @@ namespace ClassesAndObjectsPart1
 
         public static Game operator +(Game game, Player player) 
         {
-            game.Players.Add(player);
+            game.Players.Remove(player);
             return game;
         }
     
