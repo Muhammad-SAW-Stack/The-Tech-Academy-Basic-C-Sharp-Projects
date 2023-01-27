@@ -15,7 +15,7 @@ namespace ClassesAndObjectsPart1
             Name = name;
         }
         public List<Card> Hand { get; set; }
-        public int Balnce { get; set; }
+        public int Balance { get; set; }
         public string Name { get; set; }
         public bool IsActivelyPlaying { get; set; }
 
