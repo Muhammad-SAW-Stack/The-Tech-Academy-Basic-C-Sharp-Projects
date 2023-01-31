@@ -16,7 +16,10 @@ namespace DateAndTime
             Console.ReadLine();
             //Prints "Please enter a number".
             Console.Write("Please enter a number");
-           
+            int yourNum = Console.ReadLine();
+            Console.ReadLine();
+            DateTime DateTime.AddHours(yourNum);
+            Console.ReadLine();
         }
     }
 }
