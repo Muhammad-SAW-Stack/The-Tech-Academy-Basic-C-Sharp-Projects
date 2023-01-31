@@ -1,0 +1,5 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfoInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.AssemblyInfo.cs
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\OperatorsAssignment\obj\Debug\netcoreapp3.1\OperatorsAssignment.csproj.CoreCompileInputs.cache
