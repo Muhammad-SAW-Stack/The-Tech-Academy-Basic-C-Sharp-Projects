@@ -1,7 +1,0 @@
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Class Method Assignment\bin\Debug\Class Method Assignment.exe.config
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Class Method Assignment\bin\Debug\Class Method Assignment.exe
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Class Method Assignment\bin\Debug\Class Method Assignment.pdb
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Class Method Assignment\obj\Debug\Class Method Assignment.csproj.AssemblyReference.cache
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Class Method Assignment\obj\Debug\Class Method Assignment.csproj.CoreCompileInputs.cache
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Class Method Assignment\obj\Debug\Class Method Assignment.exe
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Class Method Assignment\obj\Debug\Class Method Assignment.pdb
