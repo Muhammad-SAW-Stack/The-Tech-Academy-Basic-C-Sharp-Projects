@@ -13,7 +13,7 @@ namespace Console_App_String_and_Integers
             List<int> numbers = new List<int> { 34, 6, 14, 19, 88 };
             // Prints to the screen "Enter a number to divide by: ".
             Console.Write("Enter a number to divide by: ");
-            // Saves the users input.
+            // Saves the user's input.
             string input = Console.ReadLine();
             // A try block in C# is a block of code where exceptions may occur and can be caught and handled by a corresponding catch block.
             try
@@ -49,6 +49,5 @@ namespace Console_App_String_and_Integers
         }
     }    
 }
-
 
 
