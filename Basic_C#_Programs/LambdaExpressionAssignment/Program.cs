@@ -1,4 +1,4 @@
-﻿using ConsoleApp;
+﻿ConsoleApp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,7 +23,7 @@ namespace LambdaExpressionAssignment
                 new Employee{ Id = 9, FirstName = "David", LastName = "Miller" },
                 new Employee{ Id = 10, FirstName = "Jessica", LastName = "Wilson" }
             };
-            // This code uses a foreach loop to create a list of all employees with the first name “Joe”.
+            // This code creates a new generic List of Employee objects and assigns it to a variable named joeList 
             List<Employee> joeList = new List<Employee>();
             // The foreach keyword is used to start the loop. The "in" keyword is used to separate the type and variable from the collection being iterated over.
             foreach (Employee employee in employees)
