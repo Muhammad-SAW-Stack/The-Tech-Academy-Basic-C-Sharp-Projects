@@ -1,4 +1,0 @@
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.AssemblyInfoInputs.cache
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.AssemblyInfo.cs
-C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.csproj.CoreCompileInputs.cache
