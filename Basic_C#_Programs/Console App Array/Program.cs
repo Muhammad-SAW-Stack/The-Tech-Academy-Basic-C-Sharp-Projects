@@ -41,8 +41,8 @@ namespace Console_App_Array
                 // Prints to the screen "With deep regret, I am compelled to tell you, it appears the index you've chosen does not exist in the array.".
                 Console.WriteLine("With deep regret, I am compelled to tell you, it appears the index you've chosen does not exist in the array.");
             }
-            // Declares a list of strings with 5 elements.
-            var stringList = new List<string> { "Turkey", "Italy", "Japan", "Germany" };
+            // Declares a list of strings called "Nations" with 5 elements.
+            var Nations = new List<string> { "Turkey", "Italy", "Japan", "Germany" };
             // Asks the user to select an index in the list.
             Console.WriteLine("Please select an index of the string list (between 0-3)");
             // Saves and converts "listIndex".
@@ -50,8 +50,8 @@ namespace Console_App_Array
             // Displays the string at the selected index.
             if (listIndex >= 0 && listIndex <= 4)
             {
-                // Prints to the screen "The string at index 'listIndex' is 'stringList[listIndex]'.
-                Console.WriteLine("The string at index " + listIndex + " is: " + stringList[listIndex]);
+                // Prints to the screen "The string at index 'listIndex' is 'Nations[listIndex]'.
+                Console.WriteLine("The string at index " + listIndex + " is: " + Nations[listIndex]);
             }
             // Displays an error message if the index is out of range.
             else
@@ -64,4 +64,3 @@ namespace Console_App_Array
         }
     }
 }
-
