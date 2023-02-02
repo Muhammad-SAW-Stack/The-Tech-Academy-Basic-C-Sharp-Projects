@@ -1,0 +1,14 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.AssemblyInfoInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.AssemblyInfo.cs
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\bin\Debug\netcoreapp3.1\ConstructorsAssignment.exe
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\bin\Debug\netcoreapp3.1\ConstructorsAssignment.deps.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\bin\Debug\netcoreapp3.1\ConstructorsAssignment.runtimeconfig.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\bin\Debug\netcoreapp3.1\ConstructorsAssignment.runtimeconfig.dev.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\bin\Debug\netcoreapp3.1\ConstructorsAssignment.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\bin\Debug\netcoreapp3.1\ConstructorsAssignment.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConstructorsAssignment\obj\Debug\netcoreapp3.1\ConstructorsAssignment.genruntimeconfig.cache
