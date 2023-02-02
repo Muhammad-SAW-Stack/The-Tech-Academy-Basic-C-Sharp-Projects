@@ -1,0 +1,14 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.AssemblyInfoInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.AssemblyInfo.cs
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.csproj.CoreCompileInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\bin\Debug\netcoreapp3.1\Console App String and Integers.exe
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\bin\Debug\netcoreapp3.1\Console App String and Integers.deps.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\bin\Debug\netcoreapp3.1\Console App String and Integers.runtimeconfig.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\bin\Debug\netcoreapp3.1\Console App String and Integers.runtimeconfig.dev.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\bin\Debug\netcoreapp3.1\Console App String and Integers.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\bin\Debug\netcoreapp3.1\Console App String and Integers.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\Console App String and Integers\obj\Debug\netcoreapp3.1\Console App String and Integers.genruntimeconfig.cache
