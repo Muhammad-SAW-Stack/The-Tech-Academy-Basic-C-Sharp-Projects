@@ -6,7 +6,7 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            // Instantiates an Employee class object with two properties the first name "Joe" and last name "Smith"
+            // Instantiates an Employee class object with two properties, the first name "Joe" and last name "Smith"
             Employee MyEmployee = new Employee();
             //The first property.
             MyEmployee.FirstName= "Joe";
