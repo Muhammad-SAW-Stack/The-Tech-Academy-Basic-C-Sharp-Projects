@@ -6,10 +6,10 @@ namespace MethodsAndObjectsAssignment
     {
             static void Main(string[] args)
             {
-                // Instantiate and initialize an Employee object with the firstName Sample, lastName Student, and Id 123.
+                // Instantiates and initializes an Employee object with the firstName Sample, lastName Student, and Id 123.
                 Employee employee = new Employee { FirstName = "Sample", LastName = "Student", Id = 123 };
 
-                // Call the SayName method of the superclass (Person)
+                // Calls the "SayName" method of the parent class/base class/superclass (Person).
                 employee.SayName();
             }
     }
