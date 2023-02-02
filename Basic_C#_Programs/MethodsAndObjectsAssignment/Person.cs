@@ -3,7 +3,7 @@
 namespace MethodsAndObjectsAssignment
 
 {
-        // Defines the Person class with two properties, FirstName and LastName
+        // Defines the Person class with two properties, FirstName and LastName.
         class Person
         {
             public string FirstName { get; set; }
