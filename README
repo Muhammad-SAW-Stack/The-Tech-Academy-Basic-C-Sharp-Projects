@@ -1,7 +1,8 @@
 AbstractClass-
 Print to the screen employee first and list name
 
-Calling Methods
+Calling Methods-
+Asks user to input a number. Saves the number and adds it with 14, subtracts it from 6, multiplies it by 8.
 
 Class Method Assignment
 
