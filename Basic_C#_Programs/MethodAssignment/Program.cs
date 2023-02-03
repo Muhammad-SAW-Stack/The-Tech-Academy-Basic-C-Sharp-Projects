@@ -8,12 +8,10 @@ namespace MethodAssignment
             {
                 // Instantiates the class "MathOperation".
                 MathOperation math = new MathOperation();
-
                 // Prints to the screen "Enter first number:".
                 Console.WriteLine("Enter first number:");
                 // Saves and converts the first number the user imputed as "firstNum".
                 int firstNum = int.Parse(Console.ReadLine());
-
                 // Prints to the screen "Enter second number (optional):".
                 Console.WriteLine("Enter second number (optional):");
                 // Saves and converts the second number the user imputed as "secondNumImput".
@@ -28,21 +26,21 @@ namespace MethodAssignment
             if (string.IsNullOrEmpty(secondNumInput))
                 {
                     // The code inside of the "if" statement's curly brackets is the code to be executed if the condition is true.
-                    // Calls the method with one number if second number is not entered.
+                    // Calls the method with one number, if the second number is not entered.
                     result = math.Calculate(firstNum);
                 }
                 else
                 {
-                    // Call method with two numbers if second number is entered
+                    // Calls the method with two numbers, if the second number is entered.
                     secondNum = int.Parse(secondNumInput);
                     result = math.Calculate(firstNum, secondNum);
                 }
-
-                // Display result
+                // Prints to the screen "Result: 'result'".
                 Console.WriteLine("Result: " + result);
+                // Keeps window from closing.
                 Console.ReadLine();
             }
-    }
+     }
 }
 
 
