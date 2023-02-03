@@ -6,17 +6,25 @@ Asks user to input a number. Saves the number and adds it with 14, subtracts it 
 
 Class Method Assignment
 
-ClassesAndObjectsPart1
+Blackjack-
+This app is a game of Blackjack
 
-Console App Array
+Console App Array-
+Asks user to make a selection from several lists of arrays.
 
-Console App String and Integers
+Console App String and Integers-
+The app asks the user to enter a number to divide by: 4
+The number the user entered is then divided by 36, 6, 14, 19, 88, respectively. 
+The result of each math operation is printed to the screen, as well as the operation. 
 
-ConstructorsAssignment
+DateAndTime-
+This app shows the date and time. It also asks the user to enter a number. It will then print to the screen "the time will be X o'clock in Y hours", Y being the number the user inputed.
 
-DateAndTime
-
-LambdaExpressionAssignment
+LambdaExpressionAssignment-
+An app that prints to the screen: 
+"List of employees with the first name Joe (using foreach loop):"
+"List of employees with the first name Joe (using lambda expression):"
+"List of employees with an Id number greater than 5 (using lambda expression):"
 
 MainMethodAssignment
 
