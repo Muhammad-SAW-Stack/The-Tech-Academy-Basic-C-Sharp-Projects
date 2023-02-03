@@ -26,11 +26,14 @@ An app that prints to the screen:
 "List of employees with the first name Joe (using lambda expression):"
 "List of employees with an Id number greater than 5 (using lambda expression):"
 
-MainMethodAssignment
+MainMethodAssignment-
+An app that print to the screen:
+"Result 1: 30"
+"Result 2: 137"
+"Result 3: -10"
 
-Math and Comparison Ops Assignment
-
-MethodAssignment
+MethodAssignment-
+An app that asks the user to input at least one number, the second number being optional. If the user inputs two numbers, they are added together and the answer is 
 
 MethodClassAssignment
 
