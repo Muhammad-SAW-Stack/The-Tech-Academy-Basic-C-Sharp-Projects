@@ -1,0 +1,14 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.exe
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.deps.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.runtimeconfig.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.runtimeconfig.dev.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\bin\Debug\netcoreapp3.1\MethodClassAssignment.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.AssemblyInfoInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.AssemblyInfo.cs
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\MethodClassAssignment\obj\Debug\netcoreapp3.1\MethodClassAssignment.genruntimeconfig.cache
