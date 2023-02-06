@@ -1,0 +1,14 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\bin\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.exe
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\bin\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.deps.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\bin\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.runtimeconfig.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\bin\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.runtimeconfig.dev.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\bin\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\bin\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.AssemblyInfoInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.AssemblyInfo.cs
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.csproj.CoreCompileInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ConsoleAppAssignmentPart6\obj\Debug\netcoreapp3.1\ConsoleAppAssignmentPart6.genruntimeconfig.cache
