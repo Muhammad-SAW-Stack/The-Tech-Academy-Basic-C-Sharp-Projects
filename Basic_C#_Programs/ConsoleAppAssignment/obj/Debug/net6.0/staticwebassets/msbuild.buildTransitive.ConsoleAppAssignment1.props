@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ConsoleAppAssignment1.props" />
+</Project>
