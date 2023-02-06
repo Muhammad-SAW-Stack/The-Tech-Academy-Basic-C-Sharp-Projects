@@ -1,0 +1,14 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\bin\Debug\netcoreapp3.1\DateAndTimeAssign.exe
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\bin\Debug\netcoreapp3.1\DateAndTimeAssign.deps.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\bin\Debug\netcoreapp3.1\DateAndTimeAssign.runtimeconfig.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\bin\Debug\netcoreapp3.1\DateAndTimeAssign.runtimeconfig.dev.json
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\bin\Debug\netcoreapp3.1\DateAndTimeAssign.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\bin\Debug\netcoreapp3.1\DateAndTimeAssign.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.AssemblyInfoInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.AssemblyInfo.cs
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.csproj.CoreCompileInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.dll
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.pdb
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\DateAndTimeAssign\obj\Debug\netcoreapp3.1\DateAndTimeAssign.genruntimeconfig.cache
