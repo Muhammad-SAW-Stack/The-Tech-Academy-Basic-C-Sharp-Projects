@@ -41,23 +41,15 @@ An app that takes two integers as parameters. Then has the method do a math oper
 MethodsAndObjectsAssignment-
 This app posts the first name and last name as "Sample Student".
 
-MyConsoleApp
 
-OperatorsAssignment
+approvalProgramForCarInsurance-
+An aoo that lets users find out their approval for car insurance.
 
-ParsingEnumsAssignment
 
-Polymorphism
+packageShippingQuote-
+An app that lets users enter the weight and dimensions of the package they're shipping, to get a quote on the price. 
 
-approvalProgramForCarInsurance
 
-dailyReport
-
-myConsoleProject
-
-packageShippingQuote
-
-whileStatementDoWhile
 
 
 
