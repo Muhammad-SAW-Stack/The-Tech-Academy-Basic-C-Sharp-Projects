@@ -1,7 +1,7 @@
 ﻿using FinalAssignment;
 using System;
 
-namespace EF6Console
+namespace FinalAssignment
 {
     class Program
     {
