@@ -1,5 +1,7 @@
-﻿using System;
+using FinalAssignment;
+using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Text;
 
 public class SchoolContext : DbContext
