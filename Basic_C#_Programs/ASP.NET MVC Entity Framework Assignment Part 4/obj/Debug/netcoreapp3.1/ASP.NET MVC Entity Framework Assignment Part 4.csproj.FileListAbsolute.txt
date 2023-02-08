@@ -1,0 +1,5 @@
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\netcoreapp3.1\ASP.NET MVC Entity Framework Assignment Part 4.csproj.AssemblyReference.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\netcoreapp3.1\ASP.NET MVC Entity Framework Assignment Part 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\netcoreapp3.1\ASP.NET MVC Entity Framework Assignment Part 4.AssemblyInfoInputs.cache
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\netcoreapp3.1\ASP.NET MVC Entity Framework Assignment Part 4.AssemblyInfo.cs
+C:\Users\aolst\Desktop\Desktop\Basic_C#_Programs\ASP.NET MVC Entity Framework Assignment Part 4\obj\Debug\netcoreapp3.1\ASP.NET MVC Entity Framework Assignment Part 4.csproj.CoreCompileInputs.cache
